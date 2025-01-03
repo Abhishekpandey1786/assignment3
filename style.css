@@ -1,0 +1,29 @@
+h1{
+    align-items: center;
+    margin-left: 40%;
+    background-color: black;
+    color: white;
+}
+img{
+    height: 300px;
+    margin-left: 40%;
+
+}
+ol{
+    margin-left: 40%;
+    color: white;
+    background-color: black;
+}
+a{
+    margin-left: 41%;
+    color: white;
+    background-color: black;
+}
+p{
+    margin-left: 620px;
+    color: white;
+    background-color: black;
+}
+body{
+    background-color: black;
+}
